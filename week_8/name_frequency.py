@@ -9,4 +9,4 @@ def name_frequency(names):
         freq_dic[name] = first_names.count(name)
     return freq_dic
 
-print(name_frequency(['Liv Ea Jensen', 'Mads Oliver', 'Anna Simon', 'mads kai jensen', 'Anna Madsen']))
+# print(name_frequency(['Liv Ea Jensen', 'Mads Oliver', 'Anna Simon', 'mads kai jensen', 'Anna Madsen']))
