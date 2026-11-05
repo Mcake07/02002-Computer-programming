@@ -1,5 +1,4 @@
 def combine_files(path):
-    import os
     writeto = os.path.join(path, 'combined.txt')
     with open(writeto, 'w') as writing:
         for file in os.listdir(path):
@@ -11,8 +10,8 @@ def combine_files(path):
     with open(writeto) as f:
         endproduct = f.read()
     return endproduct
-
-
+ 
+import os
 
 
 path = r'week_9\number_lines'

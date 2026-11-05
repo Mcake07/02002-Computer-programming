@@ -18,8 +18,9 @@ def lix_number(filename):
     return LIX
 
 def join(path,file):
-    import os
     return os.path.join(path,file)
+
+import os
 
 path = r'week_9\texts'
 file = 'text_lix_a.txt'
