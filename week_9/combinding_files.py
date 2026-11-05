@@ -4,10 +4,10 @@ def combine_files(path):
         for file in os.listdir(path):
             filepath = os.path.join(path,file)
             if os.path.isfile(filepath) and '.txt' in file and file !='combined.txt':
-                with open(filepath, encoding='utf-8') as f:
+                with open(filepath, encoding='cp1252') as f:
                     content = f.read()
                     writing.write(content)
-    with open(writeto) as f:
+    with open(writeto, encoding='cp1252') as f:
         endproduct = f.read()
     return endproduct
  

@@ -1,0 +1,13 @@
+Se den lille kattekilling
+00  Se den lille kattekilling
+01  nej hvor er den sød
+02  den har fine hvide poter
+03  og en pels så blød
+04  Den kan sige miav og spinde
+05  ligesom sin mor
+06  den skal snart få lært at finde
+07  hen hvor musen bor
+08  Lille mus kom op af hullet
+09  kom og leg tagfat
+10  har du ikke lyst at lege
+11  med den lille kat

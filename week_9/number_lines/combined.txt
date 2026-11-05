@@ -1,49 +1,63 @@
 Bro bro brille
 
 Bro, bro, brille!
-Klokken ringer el’ve.
-Kejseren står på sit høje hvide slot,
-så hvidt som et kridt,
-så sort som et kul.
+Klokken ringer elâ€™ve.
+Kejseren stÃ¥r pÃ¥ sit hÃ¸je hvide slot,
+sÃ¥ hvidt som et kridt,
+sÃ¥ sort som et kul.
 
 Fare, fare, krigsmand,
-døden skal du lide,
+dÃ¸den skal du lide,
 den, som kommer allersidst,
 skal i den sorte gryde.
 
-Første gang så la’r vi ham gå,
-anden gang så lige så,
-tredie gang så ta’r vi ham
-og putter ham i gryden!Der bor en bager på Nørregade
+FÃ¸rste gang sÃ¥ laâ€™r vi ham gÃ¥,
+anden gang sÃ¥ lige sÃ¥,
+tredie gang sÃ¥ taâ€™r vi ham
+og putter ham i gryden!Bro bro brille
+00  Bro, bro, brille!
+01  Klokken ringer el’ve.
+02  Kejseren står på sit høje hvide slot,
+03  så hvidt som et kridt,
+04  så sort som et kul.
+05  Fare, fare, krigsmand,
+06  døden skal du lide,
+07  den, som kommer allersidst,
+08  skal i den sorte gryde.
+09  Første gang så la’r vi ham gå,
+10  anden gang så lige så,
+11  tredie gang så ta’r vi ham
+12  og putter ham i gryden!
+Der bor en bager pÃ¥ NÃ¸rregade
 
-Der bor en bager på Nørregade,
+Der bor en bager pÃ¥ NÃ¸rregade,
 han bager kringler og julekage.
-Han bager store, han bager små,
-han bager nogle med sukker på.
+Han bager store, han bager smÃ¥,
+han bager nogle med sukker pÃ¥.
 
-Og i hans vindu’ er sukkersager
+Og i hans vinduâ€™ er sukkersager
 og heste, grise og peberkager.
-Og har du penge, så kan du få,
-men har du ingen, så må du gå!Fastelavn er mit navn
+Og har du penge, sÃ¥ kan du fÃ¥,
+men har du ingen, sÃ¥ mÃ¥ du gÃ¥!Fastelavn er mit navn
 
 Fastelavn er mit navn,
 boller vil jeg have.
-Hvis jeg ingen boller får,
-så laver jeg ballade.
+Hvis jeg ingen boller fÃ¥r,
+sÃ¥ laver jeg ballade.
 
 Boller op, boller ned,
 boller i min mave.
-Hvis jeg ingen boller får,
-så laver jeg ballade.Se den lille kattekilling
+Hvis jeg ingen boller fÃ¥r,
+sÃ¥ laver jeg ballade.Se den lille kattekilling
 
 Se den lille kattekilling
-nej hvor er den sød
+nej hvor er den sÃ¸d
 den har fine hvide poter
-og en pels så blød
+og en pels sÃ¥ blÃ¸d
 
 Den kan sige miav og spinde
 ligesom sin mor
-den skal snart få lært at finde
+den skal snart fÃ¥ lÃ¦rt at finde
 hen hvor musen bor
 
 Lille mus kom op af hullet

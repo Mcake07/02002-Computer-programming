@@ -1,0 +1,9 @@
+Der bor en bager på Nørregade
+00  Der bor en bager på Nørregade,
+01  han bager kringler og julekage.
+02  Han bager store, han bager små,
+03  han bager nogle med sukker på.
+04  Og i hans vindu’ er sukkersager
+05  og heste, grise og peberkager.
+06  Og har du penge, så kan du få,
+07  men har du ingen, så må du gå!

@@ -1,0 +1,9 @@
+Fastelavn er mit navn
+00  Fastelavn er mit navn,
+01  boller vil jeg have.
+02  Hvis jeg ingen boller får,
+03  så laver jeg ballade.
+04  Boller op, boller ned,
+05  boller i min mave.
+06  Hvis jeg ingen boller får,
+07  så laver jeg ballade.

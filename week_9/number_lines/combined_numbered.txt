@@ -1,0 +1,56 @@
+Bro bro brille
+00  Bro, bro, brille!
+01  Klokken ringer el’ve.
+02  Kejseren står på sit høje hvide slot,
+03  så hvidt som et kridt,
+04  så sort som et kul.
+05  Fare, fare, krigsmand,
+06  døden skal du lide,
+07  den, som kommer allersidst,
+08  skal i den sorte gryde.
+09  Første gang så la’r vi ham gå,
+10  anden gang så lige så,
+11  tredie gang så ta’r vi ham
+12  og putter ham i gryden!Bro bro brille
+13  00  Bro, bro, brille!
+14  01  Klokken ringer el�ve.
+15  02  Kejseren st�r p� sit h�je hvide slot,
+16  03  s� hvidt som et kridt,
+17  04  s� sort som et kul.
+18  05  Fare, fare, krigsmand,
+19  06  d�den skal du lide,
+20  07  den, som kommer allersidst,
+21  08  skal i den sorte gryde.
+22  09  F�rste gang s� la�r vi ham g�,
+23  10  anden gang s� lige s�,
+24  11  tredie gang s� ta�r vi ham
+25  12  og putter ham i gryden!
+26  Der bor en bager på Nørregade
+27  Der bor en bager på Nørregade,
+28  han bager kringler og julekage.
+29  Han bager store, han bager små,
+30  han bager nogle med sukker på.
+31  Og i hans vindu’ er sukkersager
+32  og heste, grise og peberkager.
+33  Og har du penge, så kan du få,
+34  men har du ingen, så må du gå!Fastelavn er mit navn
+35  Fastelavn er mit navn,
+36  boller vil jeg have.
+37  Hvis jeg ingen boller får,
+38  så laver jeg ballade.
+39  Boller op, boller ned,
+40  boller i min mave.
+41  Hvis jeg ingen boller får,
+42  så laver jeg ballade.Se den lille kattekilling
+43  Se den lille kattekilling
+44  nej hvor er den sød
+45  den har fine hvide poter
+46  og en pels så blød
+47  Den kan sige miav og spinde
+48  ligesom sin mor
+49  den skal snart få lært at finde
+50  hen hvor musen bor
+51  Lille mus kom op af hullet
+52  kom og leg tagfat
+53  har du ikke lyst at lege
+54  med den lille kat

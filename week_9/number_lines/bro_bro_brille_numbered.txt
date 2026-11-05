@@ -1,0 +1,14 @@
+Bro bro brille
+00  Bro, bro, brille!
+01  Klokken ringer el’ve.
+02  Kejseren står på sit høje hvide slot,
+03  så hvidt som et kridt,
+04  så sort som et kul.
+05  Fare, fare, krigsmand,
+06  døden skal du lide,
+07  den, som kommer allersidst,
+08  skal i den sorte gryde.
+09  Første gang så la’r vi ham gå,
+10  anden gang så lige så,
+11  tredie gang så ta’r vi ham
+12  og putter ham i gryden!
