@@ -11,9 +11,10 @@ def letter_counter(filename):
             for letter_a in alphabet:
                 if letter_a == letter_w:
                     count[letter_a] += 1
+    return count
 
 import os
 
 for file in os.listdir(r'week_9\texts'):
     if os.path.isfile(os.path.join(r'week_9\texts', file)):
-        print(letter_counter(os.path.join(r'week_9\texts',file)))
+        print(letter_counter(os.path.join(r'week_9\texts',file)), '\n\n\n')
